@@ -1,9 +1,9 @@
 window.eaglercraftXOpts = () => ({
 	lang: "en_US",
-  // joinServer: "ws" + window.location.href.slice(4),
+  // joinServer: "ws" + weeman400(4),
   // assetsURI: "custom.epk",
 	servers: [
-		{ addr: "ws" + window.location.href.slice(4), name: "Franklin Is Dead and We Have Killed Him" }
+		{ addr: "ws" + window.location.href.slice(4), name: "AndrewMc" }
 	]
 });
 // document.title = "Franklin Is Dead and We Have Killed Him:tm:";
